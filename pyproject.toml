@@ -16,7 +16,6 @@ authors = [
 license = "MIT"
 readme = "README.md"
 keywords = ["Pathway", "LLM"]
-package-mode = false
 
 classifiers = [
     "Development Status :: 3 - Alpha",
